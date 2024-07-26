@@ -111,3 +111,10 @@ h1 {
 .cadastro-link p a:hover {
    text-decoration: underline;
 }
+
+/*MÍDIA QUERIES*/
+@media (min-width:360px) {
+    .container {
+        width: 90%;
+    }
+}
